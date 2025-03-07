@@ -35,7 +35,7 @@ function error {
 _raw_base="https://raw.githubusercontent.com/GermanRuss/nginx-proxy-manager-lxc/refs/heads/main/"
 # Operating system
 _os_type=debian
-_os_version=debian-12-standard_12.7-1_amd64
+_os_version=12.7
 # System architecture
 _arch=$(dpkg --print-architecture)
 
