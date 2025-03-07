@@ -31,7 +31,8 @@ function error {
 }
 
 # Base raw github URL
-_raw_base="https://raw.githubusercontent.com/realashleybailey/nginx-proxy-manager-lxc/main/"
+#_raw_base="https://raw.githubusercontent.com/realashleybailey/nginx-proxy-manager-lxc/main/"
+_raw_base="https://raw.githubusercontent.com/GermanRuss/nginx-proxy-manager-lxc/refs/heads/main/"
 # Operating system
 _os_type=debian
 _os_version=12.3-7
